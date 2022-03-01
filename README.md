@@ -12,3 +12,21 @@
 
 
 ## Aims and the question
+
+
+## Web-scraping the data
+
+
+## Data cleaning and EDA
+  
+  
+## Feature engineering with NLP 
+
+
+## Building and optimising a classification model
+
+
+## Results and model evaluation
+
+
+## Conclusions
